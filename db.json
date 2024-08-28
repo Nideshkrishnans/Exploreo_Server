@@ -1,162 +1,254 @@
 {
   "usersdetails": [
     {
-      "id": "1",
-      "title": "a title",
-      "views": 100
+      "userName": "Nidesh",
+      "email": "nideshkrishnans@gmail.com",
+      "password": "9916",
+      "id": 1
     },
     {
-      "id": "2",
-      "title": "another title",
-      "views": 200
+      "userName": "sudarsh",
+      "email": "sudarshkm@gmail.com",
+      "password": "123456",
+      "id": 2
     },
     {
-      "title": "a title",
-      "views": "100",
-      "a": "1321",
-      "id": "2QAADix"
+      "userName": "aliyan",
+      "email": "aliyan@gmail.com",
+      "password": "aliyan",
+      "id": 3
     },
     {
-      "userName": "d",
-      "email": "d",
-      "password": "d",
-      "id": "XRdjeVG"
+      "userName": "Ajmal",
+      "email": "ajmal@gmail.com",
+      "password": "aju123",
+      "id": 4
     },
     {
-      "userName": "d",
-      "email": "d",
-      "password": "d",
-      "id": "RHAnIP4"
+      "userName": "sanath",
+      "email": "sanath@gmail.com",
+      "password": "sanath123",
+      "id": 5
     },
     {
-      "userName": "d",
-      "email": "d",
-      "password": "d",
-      "id": "O2QjSki"
+      "userName": "abhiram",
+      "email": "abhiram@gmail.com",
+      "password": "abhi123",
+      "id": 6
     },
     {
-      "userName": "d",
-      "email": "d",
-      "password": "d",
-      "id": "usZupR2"
-    },
-    {
-      "userName": "",
-      "email": "",
-      "password": "",
-      "id": "kQusgBC"
-    },
-    {
-      "userName": "gf",
-      "email": "hgf",
-      "password": "hg",
-      "id": "DY_smza"
-    },
-    {
-      "userName": "gf",
-      "email": "hgf",
-      "password": "hg",
-      "id": "usujoio"
-    },
-    {
-      "userName": "gf",
-      "email": "hgf",
-      "password": "hg",
-      "id": "to9hxYL"
-    },
-    {
-      "userName": "gf",
-      "email": "hgf",
-      "password": "hg",
-      "id": "KickQ3O"
-    },
-    {
-      "userName": "gf",
-      "email": "hgf@24324",
-      "password": "hg",
-      "id": "LrF0W58"
-    },
-    {
-      "userName": "gf",
-      "email": "nish",
-      "password": "hg",
-      "id": "Lr6k8sS"
-    },
-    {
-      "userName": "bibi",
-      "email": "bibi@gmail.com",
-      "password": "vshsv",
-      "id": "p5x22nN"
-    },
-    {
-      "userName": "dudud",
-      "email": "bibni@gmail.com",
-      "password": "vshsv",
-      "id": "WRX_TmV"
-    },
-    {
-      "userName": "dududxdd",
-      "email": "biswxwsxbni@gmail.com",
-      "password": "vshsv",
-      "id": "Zk0XDVp"
-    },
-    {
-      "userName": "akash",
-      "email": "akash@gmail.com",
-      "password": "hducvwv",
-      "id": "rdBa1PF"
-    },
-    {
-      "userName": "    nideesh",
-      "email": "akash",
-      "password": "     ",
-      "id": "-SefQ6Y"
-    },
-    {
-      "userName": "    nideesh",
-      "email": "akashgcgcyyg",
-      "password": "hchc",
-      "id": "7hptPR2"
-    },
-    {
-      "userName": "gvdgvgyey",
-      "email": "gwgvqywy",
-      "password": "gyfcqwyd",
-      "id": "SjtAo75"
-    },
-    {
-      "username": "",
-      "email": "vqduwvvevvqwgv",
-      "password": "gqvgvqvvvcxcxtcxcxxxx",
-      "userName": "gvcdgqdvwvu",
-      "id": "4IngQX1"
-    },
-    {
-      "userName": "s",
-      "email": "s",
-      "password": "s",
-      "id": "lhGbdAo"
-    },
-    {
-      "userName": "s",
-      "email": "s@gmail.com",
-      "password": "s",
-      "id": "IiVquHq"
+      "userName": "hh",
+      "email": "hh",
+      "password": "hh",
+      "id": 7
     }
   ],
-  "comments": [
+  "host": [
     {
-      "id": "1",
-      "text": "a comment about post 1",
-      "postId": "1"
+      "userName": "Nidesh",
+      "title": "Adventure awaits",
+      "startingpoint": "kochi",
+      "destination": "himalayas",
+      "startdate": "2024-08-24",
+      "enddate": "2024-08-31",
+      "price": "20000",
+      "people": "10",
+      "description": "The Himalayas offer some of the world’s best trekking routes, from easy walks through valleys to challenging climbs. Popular treks include the Annapurna Circuit, Everest Base Camp, and the Markha Valley Trek.Great for snow activities and experiencing Himalayan winter, though many high-altitude areas are inaccessible due to snow.",
+      "id": 1
     },
     {
-      "id": "2",
-      "text": "another comment about post 1",
-      "postId": "1"
+      "userName": "sudarsh",
+      "title": "Ride and ride only",
+      "startingpoint": "Aluva",
+      "destination": "Hyderabad",
+      "startdate": "2024-08-31",
+      "enddate": "2024-09-06",
+      "price": "3000",
+      "people": "4",
+      "number": "988623451",
+      "description": "lets have some un-expected fun ride",
+      "id": 3
+    },
+    {
+      "userName": "Ajmal",
+      "title": "Kulu manali",
+      "startingpoint": "kerala",
+      "destination": "manali",
+      "startdate": "2024-08-31",
+      "enddate": "2024-09-07",
+      "price": "30000",
+      "people": "2",
+      "number": "8281497955",
+      "description": "iam planing a trip to manasil , and i need a company.... come guyss lets ejoyy",
+      "id": 4
+    },
+    {
+      "userName": "sanath",
+      "title": "way to heaven",
+      "startingpoint": "Chennai",
+      "destination": "Goa",
+      "startdate": "2024-08-31",
+      "enddate": "2024-09-05",
+      "price": "3000",
+      "people": "5",
+      "number": "9447310994",
+      "description": "lets celebrate guyss",
+      "id": 5
+    },
+    {
+      "userName": "Nidesh",
+      "title": "kashmir vibe",
+      "startingpoint": "kerala",
+      "destination": "kashmir",
+      "startdate": "2024-08-31",
+      "enddate": "2024-09-07",
+      "price": "10000",
+      "people": "5",
+      "number": "9447310994",
+      "description": "lets enjoy",
+      "id": 6
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [
+    {
+      "userName": "Nidesh",
+      "bio": "Passionate about exploring the world, I thrive on the thrill of discovering new cultures, cuisines, and landscapes. From bustling city streets to serene mountain trails, every journey adds a chapter to my ever-growing collection of travel stories. With a camera in one hand and a notebook in the other, I capture the essence of each destination, sharing experiences that inspire others to embark on their own adventures. ",
+      "phonenum": "9447310994",
+      "gender": "Male",
+      "age": "23",
+      "education": "Graduate Degree",
+      "location": "kerala",
+      "language": "malayalam",
+      "drinking": "Socially",
+      "smoking": "Socially",
+      "relationship": "Single",
+      "avatarname": "david",
+      "id": 1
+    },
+    {
+      "userName": "sudarsh",
+      "bio": "Wanderer | 📸 Capturing the world, one journey at a time\n🏔️ Mountains are my playground\n📝 Sharing stories from the road\n✈️ Always planning the next escape\n#AdventureAwaits #TravelDiaries",
+      "phonenum": "9846378329",
+      "gender": "Male",
+      "age": "30",
+      "education": "Graduate Degree",
+      "location": "kannur",
+      "language": "english",
+      "drinking": "Socially",
+      "smoking": "Never",
+      "relationship": "Married",
+      "avatarname": "dony2",
+      "id": 2
+    },
+    {
+      "userName": null,
+      "bio": "kkkkkkkkkkkkkkkkkkkkkkkkk",
+      "phonenum": "dddddddddddddddd",
+      "gender": "",
+      "age": "",
+      "education": "",
+      "location": "dddddddddddddddddddddd",
+      "language": "ddddddddddddddddddd",
+      "drinking": "Never",
+      "smoking": "",
+      "relationship": "Committed",
+      "id": 3
+    },
+    {
+      "userName": null,
+      "bio": "cccccccccccccccc",
+      "phonenum": "",
+      "gender": "",
+      "age": "",
+      "education": "",
+      "location": "",
+      "language": "",
+      "drinking": "",
+      "smoking": "",
+      "relationship": "",
+      "id": 4
+    },
+    {
+      "userName": "null",
+      "bio": "kkkkkkkkkkkkkkkkkkkkkkkkkk",
+      "phonenum": "kkkkkkkkkkkkkkkk",
+      "gender": "Male",
+      "age": "mk",
+      "education": "In Grade School",
+      "location": "ssssssssssss",
+      "language": "ssssssssssss",
+      "drinking": "Never",
+      "smoking": "Socially",
+      "relationship": "Committed",
+      "avatarname": "",
+      "id": 5
+    },
+    {
+      "userName": "Ajmal",
+      "bio": "a camera in one hand and a notebook in the other, I capture the essence of each destination, sharing experiences that inspire others to embark on their own adventures. Whether it's a solo backpacking trip or a planned getaway with friends, I believe in immersing myself fully in the local culture, making meaningful connections, and living in the moment. Travel isn't just a hobby—it's a way of life.",
+      "phonenum": "8281497955",
+      "gender": "Male",
+      "age": "23",
+      "education": "Graduate Degree",
+      "location": "kochi",
+      "language": "English",
+      "drinking": "Never",
+      "smoking": "Never",
+      "relationship": "Single",
+      "avatarname": "david",
+      "id": 6
+    },
+    {
+      "userName": "sanath",
+      "bio": "With an insatiable curiosity and a love for adventure, I’ve spent the past decade traversing the globe, seeking out the hidden gems and unique experiences that make each destination truly special. From the bustling markets of Marrakech to the serene landscapes of New Zealand, every journey has been an opportunity to connect with diverse cultures, taste new cuisines, and capture breathtaking moments.",
+      "phonenum": "6282316395",
+      "gender": "Male",
+      "age": "23",
+      "education": "Graduate Degree",
+      "location": "kerala",
+      "language": "malayalam",
+      "drinking": "Never",
+      "smoking": "Never",
+      "relationship": "Committed",
+      "avatarname": "dony3",
+      "id": 7
+    },
+    {
+      "userName": "abhiram",
+      "bio": "When I'm not on the road, I’m planning my next adventure, sharing my experiences through photography and writing, and inspiring others to step out of their comfort zones and explore the world. Travel isn’t just about the places I visit; it’s about the journey itself and the lifelong memories created along the way",
+      "phonenum": "9447310994",
+      "gender": "Male",
+      "age": "23",
+      "education": "In College",
+      "location": "kochi",
+      "language": "malayalam",
+      "drinking": "Never",
+      "smoking": "Never",
+      "relationship": "Single",
+      "avatarname": "dony2",
+      "id": 8
+    }
+  ],
+  "post": [
+    {
+      "userName": "Nidesh",
+      "comment": "I spent the day exploring the shores of the lake, stopping now and then to simply sit and take it all in. The air was fresh, filled with the scent of pine and the faintest hint of snow. In the afternoon, I visited a small monastery perched on a hill overlooking the lake. The monks there welcomed me with warm smiles and a cup of butter tea, and I spent some time in silent reflection, listening to the chants that echoed through the halls.\n\nAs the day came to an end, I watched the sun dip below the horizon, leaving behind a sky painted in hues of pink and purple. The stars began to appear, one by one, twinkling brightly in the clear Himalayan sky. I returned to my tent, my heart full, and my mind at peace. Today was a reminder of the incredible beauty of this world, and the simple joy of being present in the moment.\n\nI’ll carry this day with me forever.",
+      "id": 1
+    },
+    {
+      "userName": "sudarsh",
+      "comment": "The sun slowly rose, casting its golden rays over the lake, turning the water into a mesmerizing palette of blues and greens. I stood in awe, watching the colors change with the shifting light. It was a moment of pure tranquility, where time seemed to stand still, and all that mattered was the beauty before me.",
+      "id": 3
+    },
+    {
+      "userName": "Ajmal",
+      "comment": "One of my favorite travel memories is from a spontaneous trip to a small village in the Swiss Alps. I had planned to visit the usual tourist spots, but after chatting with a local at a café in Zurich, I was convinced to take a detour to this hidden gem. The journey there was breathtaking—winding roads flanked by snow-capped peaks, with the air getting crisper as I ascended.\n\nWhen I arrived, the village felt like it was straight out of a storybook, with its wooden chalets, cobblestone streets, and the sound of cowbells echoing through the valley. I stayed in a cozy guesthouse run by an elderly couple who treated me like family. Every morning, I woke up to the scent of freshly baked bread and homemade jam, which we enjoyed together on a sun-drenched terrace overlooking the mountains.\n\nOne afternoon, I joined the villagers in a traditional festival celebrating the end of summer. We danced, sang, and shared hearty meals made from local produce. That evening, I hiked up to a nearby hill, where I watched the sunset paint the mountains in shades of pink and orange. As the stars began to twinkle in the clear night sky, I felt an overwhelming sense of peace and gratitude. It was a moment of pure connection with nature, the kind of magic that only travel can bring.\n\nThis experience taught me that sometimes, the best adventures are the ones you don't plan for.",
+      "id": 4
+    },
+    {
+      "userName": "sanath",
+      "comment": "Whether I'm navigating the ancient streets of Rome, hiking through the majestic Andes, or diving into the vibrant underwater worlds of Southeast Asia, I approach each trip with an open mind and a heart full of wonder. My travel stories are a blend of the awe-inspiring and the unexpected, always with a focus on the local people and their stories that make each place unforgettable.",
+      "id": 5
+    }
+  ]
 }
